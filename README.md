@@ -18,6 +18,20 @@ An abandoned cart email for “Wilderness Supply”, built in Salesforce Marketi
 
 * Exclusion Scripts
 
-## Authors
+## Salesforce Marketing Cloud Features
+
+* Email Studio
+
+* Content Builder
+
+* Contact Builder
+
+* Analytics Builder
+
+## Project Walkthrough
+
+https://dennischau.com/portfolio/abandoned-cart/
+
+## Author
 
 **Dennis Chau** - Entire program
